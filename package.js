@@ -1,5 +1,5 @@
 Package.describe({
-    name: 'serenitus:linkedin',
+    name: 'simonturvey:linkedin',
     summary: 'A OAuth2 wrapper for the LinkedIN API',
     version: '1.2.1',
     git: 'https://github.com/serenitus/meteor-linkedin.git'
